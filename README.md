@@ -4,6 +4,10 @@
 
 - 💻 Atualmente trabalho como Desenvolvedor na empresa Com4 Data Center(https://www.com4.com.br/)
 
+- 📝 Cursando pós-graduação em Data Science
+
+<br>
+
 ## 🛠 &nbsp; Tecnologias que domino 
 
 <p>
@@ -12,11 +16,15 @@
   <img align="center" alt="CSHARP" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
+<br>
+
 ## 📊 &nbsp; GitHub Analytics
 <p>
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=RafaelMontagnini&show_icons=true&theme=tokyonight" alt="RafaelStatus"/>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMontagnini&layout=compact&theme=tokyonight" alt="RafaelLanguages"/>
 </p>
+
+<br>
 
 ## &nbsp; Redes Sociais
 
